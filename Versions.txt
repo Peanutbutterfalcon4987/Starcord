@@ -1,8 +1,8 @@
 All
-Starfall Client/Server 1.0.0
+Starcord Client/Server 1.0.0
 ---
 Blacklisted
 ---
 Latest
-Starfall Client/Server 1.0.0
+Starcord Client/Server 1.0.0
 ---
